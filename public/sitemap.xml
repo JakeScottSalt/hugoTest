@@ -2,36 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/builds/</loc>
+    <loc>/posts/lets-test-the-auto-deployment/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/concept-pilot/</loc>
+    <loc>/tags/builds/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/corporate/</loc>
+    <loc>/posts/concept-pilot/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/intro/</loc>
+    <loc>/tags/corporate/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/laptop-build/</loc>
+    <loc>/tags/intro/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/laptops/</loc>
+    <loc>/posts/laptop-build/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/tags/laptops/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/posts/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/tags/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/test/</loc>
+    <loc>/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/tags/test/</loc>
+    <lastmod>2026-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
 </urlset>

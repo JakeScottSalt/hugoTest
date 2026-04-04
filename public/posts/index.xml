@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Terminal</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auto-deplyment Test</title>
+      <link>/posts/lets-test-the-auto-deployment/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/lets-test-the-auto-deployment/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/pkcLogo.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is the new post?!!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Concept Pilot</title>
-      <link>//localhost:1313/posts/concept-pilot/</link>
+      <link>/posts/concept-pilot/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/concept-pilot/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/pkcLogo.png&#34; alt=&#34;Image Description&#34;&gt;&#xA;This is to test obsidian with HUGO and GitHub for creating and hosting a knowledge base.&lt;/p&gt;&#xA;&lt;p&gt;This pilot will test the feasibility of the use of Obsidian, HUGO and GitHub as a means of hosting a knowledge base for use in aspects.&lt;/p&gt;&#xA;&lt;p&gt;I shall now attempt to update the contents of this file and see where we get with it :)&lt;/p&gt;</description>
+      <guid>/posts/concept-pilot/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/pkcLogo.png&#34; alt=&#34;Image Description&#34;&gt;&#xA;This is to test obsidian with HUGO and GitHub for creating and hosting a knowledge base.&lt;/p&gt;&#xA;&lt;p&gt;This pilot will test the feasibility of the use of Obsidian, HUGO and GitHub as a means of hosting a knowledge base for use in aspects.&lt;/p&gt;&#xA;&lt;p&gt;I shall now attempt to update the contents of this file and see where we get with it :)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Laptop Build</title>
-      <link>//localhost:1313/posts/laptop-build/</link>
+      <link>/posts/laptop-build/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/laptop-build/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/pkcLogo.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;To build laptop turn on device :)&lt;/p&gt;&#xA;&lt;p&gt;I am now messing about with this to see it&amp;rsquo;s capabilities!!!&lt;/p&gt;</description>
+      <guid>/posts/laptop-build/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/pkcLogo.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;To build laptop turn on device :)&lt;/p&gt;&#xA;&lt;p&gt;I am now messing about with this to see it&amp;rsquo;s capabilities!!!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
