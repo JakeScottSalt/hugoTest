@@ -5,11 +5,10 @@ draft: false
 tags:
   - Intro
   - Test
-aliases:
 ---
 
 !![Image Description](/images/pkcLogo.png)
 
 Here is the new post?!!
 
-THis is new content added 05/06/2026 @ 00:40
+This is new content added 05/06/2026 @ 00:40

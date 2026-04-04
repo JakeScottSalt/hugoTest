@@ -5,7 +5,7 @@ $sourcePath = "C:\Users\jakes\Documents\Obsidian Vault\posts"
 $destinationPath = "C:\Users\jakes\Documents\hugoTest\content\posts"
 
 # Set Github repo 
-$myrepo = "git@github.com:jakescottsalt/hugoTest.git"
+$myrepo = "git@github.com:JakeScottSalt/hugoTest.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"
