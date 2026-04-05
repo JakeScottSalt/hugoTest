@@ -97,21 +97,14 @@ try {
 
 # Step 5: Add changes to Git
 Write-Host "Staging changes for Git..."
-$hasChanges = (git status --porcelain) -ne ""
-if (-not $hasChanges) {
-    Write-Host "No changes to stage."
-} else {
-    git add .
-}
+git add .
 
 # Step 6: Commit changes with a dynamic message
 $commitMessage = "New Blog Post on $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
-$hasStagedChanges = (git diff --cached --name-only) -ne ""
-if (-not $hasStagedChanges) {
+if (git diff --cached --quiet) {
     Write-Host "No changes to commit."
 } else {
-    Write-Host "Committing changes..."
-    git commit -m "$commitMessage"
+    git commit -m "Update $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
 }
 
 # Step 7: Push all changes to the main branch
