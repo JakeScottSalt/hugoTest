@@ -1,11 +1,11 @@
-    # PowerShell Script for Windows
+# PowerShell Script for Windows
 
 # Set variables for Obsidian to Hugo copy
 $sourcePath = "C:\Users\jakes\Documents\Obsidian Vault\posts"
 $destinationPath = "C:\Users\jakes\Documents\hugoTest\content\posts"
 
 # Set Github repo 
-$myrepo = "git@github.com:JakeScottSalt/hugoTest.git"
+$myrepo = "git@github.com:jakescottsalt/hugoTest.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"
